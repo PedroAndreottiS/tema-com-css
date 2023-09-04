@@ -1,0 +1,17 @@
+body {
+    color: brown;
+}
+
+main#container {
+    margin: 10%;
+}
+
+h1.titulo {
+    color: brown;
+}
+
+p.frase {
+}
+
+p.autor {
+}
