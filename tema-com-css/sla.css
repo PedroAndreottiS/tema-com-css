@@ -1,0 +1,24 @@
+body {
+    color: white;
+    font-family: 'Nothing You Could Do', cursive;
+    background-size: cover;
+    background-image: url(white.jpg);
+}
+main#container {
+ 
+  background-color:salmon;
+  border-radius: 10% 10% 10% 10%;
+  opacity: .8;
+}
+
+h1.titulo {
+    font-size:xx-large;
+ 
+}
+
+p.frase {
+    
+}
+
+p.autor {
+}
